@@ -11,11 +11,11 @@ This repository is where I house my daily coding challenges.
 
 ### 🎖️ Current Codewars Status
 
-Ranked: 6kyu
+Ranked: 5kyu
 
-Total Completed Kata: 109
+Total Completed Kata: 251
 
-* 8kyu Completed: 108/388
+* 8kyu Completed: 250/388
 * 7kyu Completed: 1/1895
 
 ### 🙌 More information
