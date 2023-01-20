@@ -11,12 +11,14 @@ This repository is where I house my daily coding challenges.
 
 ### 🎖️ Current Codewars Status
 
-Ranked: 5kyu
+Ranked: 4kyu
 
-Total Completed Kata: 251
+Total Completed Kata: 381
 
-* 8kyu Completed: 250/388
-* 7kyu Completed: 1/1895
+* 8kyu Completed: 316/388
+* 7kyu Completed: 47/1895
+* 6kyu Completed: 18/2036
+
 
 ### 🙌 More information
 _Feel free to follow me on there! https://www.codewars.com/users/victor_patru_
